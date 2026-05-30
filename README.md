@@ -36,9 +36,6 @@ Elasticsearch integration demo with Spring Boot. Reference setup for real-world 
 **spring-boot-demo** · Java
 Spring Boot Web MVC demo. Covered the basics here.
 
-**openclaw-noesis** [archived] · TypeScript
-Memory plugin for OpenClaw agents. Kept for reference.
-
 ---
 
 You can find me at [blaspat](https://github.com/blaspat).
