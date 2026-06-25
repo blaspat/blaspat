@@ -24,16 +24,16 @@ Standalone Go node binary. Pairs a remote machine with a Hermes Agent brain over
 **bengkelcode** · JavaScript
 Work in progress. Active dev tooling experiments.
 
-**wg-easy-pihole** ⭐1 · Homelab
+**wg-easy-pihole** · Homelab
 WireGuard Easy + Pi-hole VPN/DNS setup. Self-hosted network infra for reliability and privacy.
 
-**elasticsearchclient** ⭐1 · Java
+**elasticsearchclient** · Java
 Lightweight Elasticsearch client utilities. Designed for clean integration with Java services.
 
-**resilient-redis-client** ⭐1 · Java
+**resilient-redis-client** · Java
 Fault-tolerant Redis client built with Lettuce. Handles reconnection and failover gracefully.
 
-**json-logging** ⭐1 · Java
+**json-logging** · Java
 JSON Logback logging — structured logs from Spring Boot with zero friction.
 
 **elasticsearch-demo** · Java
