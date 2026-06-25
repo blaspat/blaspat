@@ -2,18 +2,24 @@
 
 Software Engineer · Elasticsearch Certified
 
-Building in the open. Interests in distributed systems, observability, and self-hosted infra.
+Building in the open. Interests in distributed systems, observability, AI agents, and self-hosted infra.
 
 ---
 
 ## stack
 
 Java · Spring Boot · Elasticsearch · Redis · Maven
-TypeScript · JavaScript  
+TypeScript · JavaScript · Go · Python
 
 ---
 
 ## projects
+
+**hermes-node-plugin** · Python
+Hermes Agent plugin: WSS node server for remote execution targets. Turns any Hermes profile into a brain that commands remote nodes over authenticated WebSocket.
+
+**hermes-nodes** · Go
+Standalone Go node binary. Pairs a remote machine with a Hermes Agent brain over WSS for remote shell and filesystem access. The arm in a brain-and-arm architecture — connects outbound, no inbound ports required.
 
 **bengkelcode** · JavaScript
 Work in progress. Active dev tooling experiments.
